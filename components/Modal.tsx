@@ -186,7 +186,7 @@ const Modal = () => {
                 {movie?.release_date || movie?.first_air_date}
               </p>
               <div className="flex h-4 items-center justify-center rounded border border-slate-400 px-1.5 text-xs font-semibold font-Jost">
-                HB Quality
+                HB
               </div>
             </div>
 
